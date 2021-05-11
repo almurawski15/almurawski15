@@ -1,6 +1,6 @@
 ### Hi there, it's Al 👋
 
-<img src="assets/readme_banner.png" alt="header photo"><br>
+<img src="readme_banner.png" alt="header photo"><br>
 
 ### About Me
 
