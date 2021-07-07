@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React and TypeScript.
 - 👯 I’m looking to collaborate on Responsive Web Design with HTML, CSS & JavaScript.
 - 💬 Ask me about front-end web design with CSS.
-- 📫 How to reach me: Email me at almurawski15@gmail.com and connect with me on LinkedIn at https://www.linkedin.com/in/alexandra-murawski-8a312769/
+- 📫 How to reach me: Email me at almurawski15@gmail.com and connect with me on LinkedIn at https://www.linkedin.com/in/alexandra-murawski/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Outside of programming, I'm a Pilates/Barre Fitness instructor.
 
